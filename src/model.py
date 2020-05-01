@@ -1,3 +1,8 @@
+"""
+Reference:
+- https://github.com/naoto0804/pytorch-inpainting-with-partial-conv/blob/master/net.py
+"""
+
 import torch
 import torch.nn as nn
 import torch.nn.functional as F
